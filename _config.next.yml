@@ -82,7 +82,7 @@ creative_commons:
 # Open graph settings
 # See: https://hexo.io/docs/helpers#open-graph
 open_graph:
-  enable: true
+  enable: false
   options:
     #twitter_card: <twitter:card>
     #twitter_id: <twitter:creator>
@@ -211,7 +211,7 @@ language_switcher: false
 
 footer:
   # Specify the year when the site was setup. If not defined, current year will be used.
-  #since: 2021
+  since: 2026
 
   # Icon between year and copyright info.
   icon:
@@ -398,7 +398,7 @@ back2top:
 
 # Reading progress bar
 reading_progress:
-  enable: false
+  enable: true
   # Available values: left | right
   start_at: left
   # Available values: top | bottom
@@ -782,7 +782,7 @@ google_analytics:
 
 # Baidu Analytics
 # See: https://tongji.baidu.com
-baidu_analytics: # <app_id>
+baidu_analytics: c7216e5c2746a8ac794385cb074d7aee
 
 # Cloudflare Web Analytics
 # See: https://www.cloudflare.com/web-analytics/
@@ -826,7 +826,7 @@ firestore:
 # Show Views / Visitors of the website / page with busuanzi.
 # For more information: http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
-  enable: false
+  enable: true
   total_visitors: true
   total_visitors_icon: fa fa-user
   total_views: true
