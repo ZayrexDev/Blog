@@ -149,7 +149,7 @@ config wifi-vlan
 - 这里的`wifinet3`为我们创建的wifi的`wifi-iface`的名字，见上面的示例配置。
 - 这里的`name`可以任取但是不能太长，具体限制在不同设备上
 可能不同，但建议只使用3~4个字符。
-- `vid`的`10`和`network`的`guest`均可，不过之后需要保证配置能够对的上。
+- `vid`的`10`和`network`的`guest`均可自定义，不过之后需要保证配置能够对的上。
 
 ### 3.添加`wifi-station`块
 
