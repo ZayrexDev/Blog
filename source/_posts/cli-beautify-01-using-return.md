@@ -1,7 +1,7 @@
 ---
 title: CLI程序美化教程（一）：使用\r制作动态进度条
 date: 2026-03-12 18:17:16
-tags:
+tags: [Java, CLI]
 ---
 
 ## 0x00 引言
@@ -16,13 +16,13 @@ tags:
 <div style="display: flex; justify-content: center; text-align: center;">
   <figure>
     <figcaption>我做的：</figcaption>
-    <img src="https://zcraftasserts-1302810751.cos.ap-shanghai.myqcloud.com/blog/cli-beautify-01-using-return-asserts/ugly.png" width="100%" alt="有点弱" />
+    <img src="https://zcraftasserts-1302810751.cos.ap-shanghai.myqcloud.com/blog/_posts/cli-beautify-01-using-return/ugly.png" width="100%" alt="有点弱" />
     <figcaption><i>有点弱</i></figcaption>
   </figure>
   
   <figure>
     <figcaption>别人做的：</figcaption>
-    <img src="https://zcraftasserts-1302810751.cos.ap-shanghai.myqcloud.com/blog/cli-beautify-01-using-return-asserts/gemini.png" width="100%" alt="Description 2" />
+    <img src="https://zcraftasserts-1302810751.cos.ap-shanghai.myqcloud.com/blog/_posts/cli-beautify-01-using-return/gemini.png" width="100%" alt="Description 2" />
     <figcaption><b>！？强强？！</b></figcaption>
   </figure>
 </div>
@@ -126,7 +126,7 @@ public class CLIDownloader {
 
 运行演示：
 
-![demo](https://zcraftasserts-1302810751.cos.ap-shanghai.myqcloud.com/blog/cli-beautify-01-using-return-asserts/demo.gif)
+![demo](https://zcraftasserts-1302810751.cos.ap-shanghai.myqcloud.com/blog/_posts/cli-beautify-01-using-return/demo.gif)
 
 ## 0x04 总结
 
