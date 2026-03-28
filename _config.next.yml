@@ -782,7 +782,7 @@ google_analytics:
 
 # Baidu Analytics
 # See: https://tongji.baidu.com
-baidu_analytics: c7216e5c2746a8ac794385cb074d7aee
+# baidu_analytics: c7216e5c2746a8ac794385cb074d7aee
 
 # Cloudflare Web Analytics
 # See: https://www.cloudflare.com/web-analytics/
