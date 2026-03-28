@@ -293,12 +293,12 @@ wifi reload
 
 遇到这种情况时，使用Shell登录，并执行`/etc/init.d/opennds stop`
 来停止`OpenNDS`，之后应该就能恢复LuCI访问。
-为了解决问题，请参照[上面的步骤](#0x06-安装OpenNDS)正确配置之后，再运行`/etc/init.d/opennds start`
+为了解决问题，请参照上面的步骤正确配置之后，再运行`/etc/init.d/opennds start`
 恢复`OpenNDS`，看看是否正常工作。
 
 ### 重启服务后找不到添加的Wifi？
 
 这可能是因为你的`wifi-vlan`块中的`name`过长，
-请参照[上面的步骤](#2-添加wifi-vlan块)将其改短后再执行`wifi reload`看看。
+请将其改短后再执行`wifi reload`看看。
 
 END.
